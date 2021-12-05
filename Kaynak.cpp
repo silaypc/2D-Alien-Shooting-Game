@@ -3,7 +3,7 @@
 PROBLEMS: the game initializes 3 aliens at the top of the screen and in the same place for some reason, so when killed, ammo drops by 3
 and the amount of killed targets increase by 3 i didnt know how to fix this
 ----------
-ADDITIONAL FEATURES: there is a start screen, you can choose your difficulty by pressing one of "e" "h" and "n" and if another key is pressed the
+FEATURES: there is a start screen, you can choose your difficulty by pressing one of "e" "h" and "n" and if another key is pressed the
 the game gives an error sound. If hard mode is chosen health increases by 5 and ammo drops by 5. target speed changes according to the gamemode. The
 health, the gamemode, the amount of ammo left, and the amount of aliens left is displayed during gameplay, health goes down every time an ailen
 reaches the left side of the screen and if health becomes 0 the game ends if you run out of ammo the game ends, you get a different game over screens
