@@ -1,0 +1,3 @@
+﻿  Kaynak.cpp
+c:\users\hp\source\repos\alien shooting game\alien shooting game\kaynak.cpp(898): warning C4326: 'main' öğesinin dönüş türü 'int' olmalıdır, 'void' değil
+  Alien Shooting Game.vcxproj -> C:\Users\HP\source\repos\Alien Shooting Game\Debug\Alien Shooting Game.exe
